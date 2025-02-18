@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Akshay Reddy ! 👋
 
-<!--
-**akshayreddyvelugati/akshayreddyvelugati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech AI&DS student at Amrita University, Amritapuri, with a passion for **Data Science, AI/ML, and Networking**. 🚀 I love exploring new technologies and working on projects that challenge my problem-solving skills. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
+- **Languages:** C++, Python, JavaScript
+- **AI/ML:** Pandas, NumPy, Scikit-learn
+- **Web Dev:** HTML, CSS, JavaScript
+- **Networking:** Socket Programming, Wireshark
+- **Tools & Platforms:** MATLAB, Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me:
+- ✉️ **Email:** akshayvelugati@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/akki]( www.linkedin.com/in/akshay-reddy-26a724287) 
+- 🏗️ **GitHub Projects:** Check out my repositories for cool projects!
+
+🚀 Let's collaborate on exciting projects and learn together! 😃
