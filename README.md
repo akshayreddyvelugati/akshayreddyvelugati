@@ -3,11 +3,10 @@
 I'm a B.Tech AI&DS student at Amrita University, Amritapuri, with a passion for **Data Science, AI/ML, and Networking**. 🚀 I love exploring new technologies and working on projects that challenge my problem-solving skills. 
 
 ### 🛠️ Tech Stack:
-- **Languages:** Python,Java, JavaScript
-- **AI/ML:** Pandas, NumPy, Scikit-learn
-- **Web Dev:** HTML, CSS, JavaScript
-- **Networking:** Socket Programming, Wireshark
-- **Tools & Platforms:** MATLAB, Git, GitHub, VS Code
+- **Languages:** Python and Java
+- **Web Dev:** HTML, CSS, JavaScript, React and Node.js
+- **Data** : Tableau , Excel 
+- **Tools :** MATLAB,Ansys,TinkerCad and VS Code 
 
 ### 📫 Connect with Me:
 - ✉️ **Email:** akshayvelugati@gmail.com
