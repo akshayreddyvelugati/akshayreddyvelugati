@@ -1,6 +1,6 @@
 ## Hi there, I'm Akshay Reddy ! 👋
 
-I'm a B.Tech AI&DS student at Amrita University, Amritapuri, with a passion for **Web Development, Generatie Ai & Data Science*. 🚀 I love exploring new technologies and working on projects that challenge my problem-solving skills. 
+I'm a B.Tech AI&DS student at Amrita University, Amritapuri, with a passion for **Web Development, Generatie Ai & Data Science**. 🚀 I love exploring new technologies and working on projects that challenge my problem-solving skills. 
 
 ### 🛠️ Tech Stack:
 - **Languages:** Python and Java
