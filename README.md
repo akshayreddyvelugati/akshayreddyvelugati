@@ -5,7 +5,7 @@ I'm a B.Tech AI&DS student at Amrita University, Amritapuri, with a passion for 
 ### 🛠️ Tech Stack:
 - **Languages:** Python and Java
 - **Web Dev:** HTML, CSS, JavaScript, React and Node.js
-- **Data** : Tableau , Excel 
+- **Data** : Tableau , SQL ,Excel 
 - **Tools :** MATLAB,Ansys,TinkerCad and VS Code 
 
 ### 📫 Connect with Me:
